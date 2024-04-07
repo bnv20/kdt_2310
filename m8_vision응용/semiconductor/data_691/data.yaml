@@ -1,0 +1,23 @@
+names:
+- budge circuit
+- circle
+- curve circuit
+- cut circuit
+- dot
+- edge circuit
+- fat circuit
+- line
+- scratch
+- short circuit
+- spot
+- thin circuit
+nc: 12
+roboflow:
+  license: CC BY 4.0
+  project: semi_aug
+  url: https://universe.roboflow.com/bnvs-co69a/semi_aug/dataset/1
+  version: 1
+  workspace: bnvs-co69a
+test: ../test/images
+train: /content/drive/MyDrive/kdt_231026/m8_vision/semiconductor/data_691/train/images
+val: /content/drive/MyDrive/kdt_231026/m8_vision/semiconductor/data_691/valid/images
